@@ -1,0 +1,25 @@
+#Player h1 {
+    text-align: center;
+}
+
+div.list {
+    /* background-color: #333; */
+    overflow: auto;
+    white-space: nowrap;
+    width: 30%;
+    height: 100%;
+}
+
+div.list a {
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    background-color: gray;
+}
+
+div.list a:hover {
+    background-color: #b63737;
+}
